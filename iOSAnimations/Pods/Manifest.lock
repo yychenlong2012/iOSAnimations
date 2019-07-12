@@ -1,0 +1,21 @@
+PODS:
+  - FreeStreamer (4.0.0):
+    - Reachability (~> 3.0)
+  - FSCalendar (2.8.0)
+  - lottie-ios (2.5.3)
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - FreeStreamer
+  - FSCalendar
+  - lottie-ios (~> 2.5.0)
+
+SPEC CHECKSUMS:
+  FreeStreamer: 7e9c976045701ac2f7e9c14c17245203c37bf2ea
+  FSCalendar: 3a5ed3636e2ba1b83ebebfcf0c2603105a6f5efe
+  lottie-ios: a50d5c0160425cd4b01b852bb9578963e6d92d31
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+PODFILE CHECKSUM: ad62c9b5a2726f95d106a210e2a09a8693ce2864
+
+COCOAPODS: 1.4.0
